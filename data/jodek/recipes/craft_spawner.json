@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+      "###",
+      "#E#",
+      "#B#"
+  ],
+  "key": {
+      "#": {
+          "item": "minecraft:chain"
+      },
+      "E": {
+          "item": "minecraft:enchanted_golden_apple"
+      },
+      "B": {
+          "item": "minecraft:beacon"
+      }
+  },
+  "result": {
+      "item": "minecraft:spawner",
+      "count": 1
+  }
+}
