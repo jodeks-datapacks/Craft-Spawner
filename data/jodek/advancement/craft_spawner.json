@@ -1,7 +1,7 @@
 {
   "display": {
       "icon": {
-          "item": "minecraft:spawner"
+          "id": "minecraft:spawner"
       },
       "title": "Craft Spawner",
       "description": "Makes spawners craftable",
@@ -9,7 +9,7 @@
       "show_toast": false,
       "announce_to_chat": false
   },
-  "parent": "jodek:root",
+  "parent": "jodek:crafting",
   "criteria": {
       "tick": {
           "trigger": "minecraft:tick"
