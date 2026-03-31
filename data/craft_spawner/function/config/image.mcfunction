@@ -17,7 +17,6 @@ function craft_spawner:image/set_image_data {\
     {translate: "craft_spawner.description", fallback: "Adds a crafting recipe for the spawner"},\
     "",\
     [{translate: "jodek.datapack_version", fallback: "Datapack version: ", color: "#00a800"}, {text: "v1.0.3", color: "#54fc54"}],\
-    [{translate: "jodek.game_version", fallback: "Game version: ", color: "#00a800"}, {text: "1.21.10+", color: "#54fc54"}],\
     "",\
     [{translate: "jodek.by", fallback: "By ", color: "#fcfcfc"}, {text: "Jodek", color: "#fcfc54"}],\
     {text: "modrinth.com/datapack/craft-spawner", color: "#a800a8"},\
