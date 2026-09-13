@@ -9,12 +9,6 @@
       {
         "text": "\"Craft Spawner\" (craft_spawner)"
       },
-      "\n",
-      {
-        "translate": "craft_spawner.description",
-        "fallback": "Adds a crafting recipe for spawners",
-        "color": "#aaaaaa"
-      },
       "\n\n",
       {
         "translate": "jodek.version",
@@ -24,7 +18,7 @@
         "text": " "
       },
       {
-        "text": "1.0.4",
+        "text": "1.1.0",
         "color": "#55ff55"
       },
       "\n",
@@ -38,15 +32,6 @@
       {
         "text": "Jodek",
         "color": "#ffff55"
-      }
-    ]
-  },
-  "overlays": {
-    "entries": [
-      {
-        "directory": "overlay-107.1",
-        "min_format": 107,
-        "max_format": 999
       }
     ]
   }
